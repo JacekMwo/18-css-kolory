@@ -1,21 +1,27 @@
-section {   
-    width: 1100px;
-    height: 650px;
+body {
     background-color: #faebd6;
 }
 
-
-
-h1 {color: #ff0000;
-font-size: 2em;
+section {
+    width: 1100px;
+    height: 650px;
 }
 
-.p1 {color: #a42423;
-font-size: 2em;
-margin-top: 90px;
-margin-bottom: 90px;}
 
-.p2 {color: #00008f;
-font-size: 2em;
+
+h1 {
+    color: #ff0000;
+    font-size: 2em;
 }
 
+.p1 {
+    color: #a42423;
+    font-size: 2em;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.p2 {
+    color: #00008f;
+    font-size: 2em;
+}
